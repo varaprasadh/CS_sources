@@ -1,0 +1,23 @@
+First Name: Varaprasadh 
+Last Name: Alajangi
+Email Address: varaprasadh.a@gmail.com
+Mobile Number: +91 8106492369
+Country: India
+Job ID's: 1115401
+Profile: Engineering
+Resume: (attached)
+LinkedIn profile URL: https://www.linkedin.com/in/varaprasadh 
+Are you recent graduate ( within last 12 months ) / current university student: ( YES/NO ) NO
+
+A bit of info about your experience, skills, knowledge: 
+    - i worked as fullstack software engineer in VSH solutions for 8 months! i have been coding since when i was in college, 
+    - i used to make freelance projects which includes web apps, browser extensions, and desktop and mobile apps with javascript. 
+    - i mainly focussed on writing clean code and love to learn best practices. 
+  
+##Skills: 
+- FrontEnd : React, ReactNative, Vue, javascript (ES6+), CSS3,SCSS
+- Backend  : Nodejs, Express.js, RestApi, Typescript, Graphql enthusiast
+- Databases: Postgresql, MongoDB
+- tooling: Git,Docker, VSCode 
+- other: clean code, code with best practices 
+
