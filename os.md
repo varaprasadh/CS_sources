@@ -185,4 +185,56 @@ system boot
 
 
 # process scheduling
-    - 
+    
+# scheduling queues
+
+    - job queue
+        holds the processes
+    - ready queue
+        - list of processes are in memory ready to be executed.
+
+# context switch
+  - switching from one process from one to another
+  - cpu has to save the context;
+
+  ***more context switches, overhead increases.*** no useful work while switching context.
+  
+# process creation
+    - parent -> child - sub child process (a tree strcture)
+
+
+- parent continues to execute concurent  with childs
+- parent waits till some or all of childs have terminated
+
+ - in terms of address space
+  
+# process termination
+
+
+# inter process communication
+
+    - independent processes
+    - cooperating processes - shares resources among them.
+
+    - two models of ipc
+        - shared memory
+        - message passing
+
+# message passing systems
+   - fixed size messages
+   - variable size  - easy to program
+    
+    # communication links
+        - direct/indirect
+        - sync/async communication
+        - automatic/ explicit buffering
+    # issues related with features
+        - naming
+        - synchronization
+        - buffering
+
+
+
+
+
+
