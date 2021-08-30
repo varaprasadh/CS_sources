@@ -226,12 +226,17 @@ system boot
     
     # communication links
         - direct/indirect
+            - issue - naming
+            - direct
+                - send(p,message), receive(q, message);
+                - send(p,message), receive(id, message); id is the sender process id
+            - indirect
+                - messages are transferred over the mailboxes, ie ports 
+            
         - sync/async communication
+            - issue - synchronization
         - automatic/ explicit buffering
-    # issues related with features
-        - naming
-        - synchronization
-        - buffering
+            - buffering
 
 
 
